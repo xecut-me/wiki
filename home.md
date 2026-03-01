@@ -1,4 +1,4 @@
-## Welcome to your wiki!
+## Xecut wiki
 
 Your Otter Wiki is up and running.
 
