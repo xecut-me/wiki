@@ -11,6 +11,7 @@
 - Максимальная температура кроватки: 	100 ℃
 # Филамент
 Хорошо: PLA, PETG, TPU, PVA
+
 Не рекомендуется: ABS, ASA, PC, PA, PET, Carbon/Glass Fiber Reinforced Polymer
 
 # Orca
