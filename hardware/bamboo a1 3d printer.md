@@ -1,8 +1,18 @@
 # Bamboo A1 3d printer
+![](./image-1772735623990.png?thumbnail=400)
 # Параметры
+Этого должно быть достаточно, чтобы настроить слайсер на принтер:
 - Bambu Lab A1
 - 0.4 nozzle
 - Textured PEI Plate
+Остальное - https://bambulab.com/en/a1/tech-specs
+- Максимальный размер печати: 256 x 256 x 256 mm³
+- Максимальная температура сопла: 300 ℃
+- Максимальная температура кроватки: 	100 ℃
+# Филамент
+Хорошо: PLA, PETG, TPU, PVA
+Не рекомендуется: ABS, ASA, PC, PA, PET, Carbon/Glass Fiber Reinforced Polymer
+
 # Orca
 ## Как выбрать принтер в орке:
 1. Prepare -> Printer -> Select/Remove printers (system presets)
