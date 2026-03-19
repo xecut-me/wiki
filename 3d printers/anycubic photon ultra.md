@@ -5,6 +5,7 @@
 >
 # Anycubic Photon Ultra
 ![](./image-1772757024735.png?thumbnail=400)
+
 This is an SLA printer, and this is how to use it:
 # Требования к флешке
 - Флешка должна быть type-A
