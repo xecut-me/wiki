@@ -26,27 +26,29 @@ Calibration for antenna measurement:
 Calibration slots: 
 Please do not save to the topmost slot 0. 
 
-Slot0 10MHz - 3Ghz nowire
-Slot1 91Mhz - 959Mhz yeswire
+Slot0 10MHz - 3Ghz nowire  
+Slot1 91Mhz - 959Mhz yeswire  
 
 To Select one of these slots find the RECALL menu option. 
 
 
-Heres how to measure stuff with it:
+### Here's how to
+#### Check antenna TX quickly: 
 SWR / return loss is good when you need to check TX. 
 You can use it to guesstimate the quality RX as well, but when receiving signal strength and signal-to-noise are more important. Any way to test those other than a real world test? 
-1. If your SWR is over 3 you probably don't want to use this antenna at this frequency to transmit >25% of power is returned back to transmitter
-2. If your SWR is 2 your antenna is ok, about ~10% is returned back to the transmitter
-3. If your SWR is 1.5 your antenna is good, and the closer it gets closer to the more amazing it is
+- If your SWR is over 3 you probably don't want to use this antenna at this frequency to transmit >25% of power is returned back to transmitter
+- If your SWR is under 2 your antenna is ok, about ~10% is returned back to the transmitter
+- If your SWR is <1.5 your antenna is good, and the closer it gets to 1 the more amazing it is
 
+#### Check antenna TX slowly:
 Smith Chart:
 The central horizontal line is from short on the left, to open on the right, with 50 Ohms in the center.  
-50 Ohms is teh standard. 
-Top part of the chart is inductance
-Bottom part is capacitance
+50 Ohms is teh standard, standards are good  
+Top part of the chart is inductance  
+Bottom part is capacitance  
 
-You want your point to be as close to the fucking center as possible at the desired frequency. 
+- You want the point you got at the selected frequency to be as close to the fucking center as possible
 
-Heres how to read the lines and
-example picture
-lines meaning
+Also, if you know a lot you can tell us how to tune antennas 
+
+// todo: add example pictures
