@@ -1,13 +1,13 @@
 # Lite VNA
 
-Actually LiteVNA 64-0.3.2
-This is a tool to analyze antennas, it works by checking reflected signal. 
+Actually LiteVNA 64-0.3.2  
+Measurement frequency: 50kHz - 6.3GHz  
+This is a tool to analyze antennas, it works by checking reflected signal.  
 
-Measurement frequency: 50kHz - 6.3GHz
-It's recommended to calibrate closest to the presumed frequency of your DUT (device under test). Having ±100MHz seems like a good place to start. You can also use a wide measurement range if you like to, but zooming in to a narrower view may be less accurate. 
+It's recommended to calibrate closest to the presumed frequency of your DUT (device under test). Having ±100MHz seems like a good place to start. You can try using a wide measurement range, but the results may be very inaccurate and at times useless. 
 
-Prior to calibration consider whether you will need a cable for your antenna or you're able to connect your DUT directly. 
-If a cable is required, do the calibration with the cable attached. If you only need a protrusion to orifice converter you can and should calibrate without it. You will need three calibration SMAs from inside the LiteVNA box.  
+Prior to calibration consider whether you will need a cable for your antenna or you're able to connect your DUT directly to port S11. 
+If a cable is required, do the calibration with the cable attached. Anything you connect to the VNA affects the measurements. You will need three calibration SMAs from inside the LiteVNA box.  
 
 Calibration for antenna measurement:
 1. Turn on LiteVNA and connect the cable if necessary. 
@@ -33,12 +33,20 @@ To Select one of these slots find the RECALL menu option.
 
 
 Heres how to measure stuff with it:
-1. It is recommended 
-2. b
-3. ???
-4. PROPHET
+SWR / return loss is good when you need to check TX. 
+You can use it to guesstimate the quality RX as well, but when receiving signal strength and signal-to-noise are more important. Any way to test those other than a real world test? 
+1. If your SWR is over 3 you probably don't want to use this antenna at this frequency to transmit >25% of power is returned back to transmitter
+2. If your SWR is 2 your antenna is ok, about ~10% is returned back to the transmitter
+3. If your SWR is 1.5 your antenna is good, and the closer it gets closer to the more amazing it is
 
+Smith Chart:
+The central horizontal line is from short on the left, to open on the right, with 50 Ohms in the center.  
+50 Ohms is teh standard. 
+Top part of the chart is inductance
+Bottom part is capacitance
 
-Heres how to read the lines and stuff:
+You want your point to be as close to the fucking center as possible at the desired frequency. 
+
+Heres how to read the lines and
 example picture
 lines meaning
