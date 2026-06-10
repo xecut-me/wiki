@@ -1,4 +1,4 @@
-# Access Level
+# Access Levels
 
 В спейсе существует пять уровней доступа:
 - Stranger
