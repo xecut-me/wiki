@@ -1,9 +1,9 @@
+# Anycubic Photon Ultra
 >[!WARNING]
->SAFETY FIRST!
+>**SAFETY FIRST!**
 >
 >Фотопполимернаая смола токсична - используй защитные перчатки и маску. 
 >
-# Anycubic Photon Ultra
 ![](./image-1772757024735.png?thumbnail=400)
 
 This is an SLA printer, and this is how to use it:
