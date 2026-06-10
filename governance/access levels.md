@@ -10,6 +10,8 @@
 - Resident
 - Owner
 
+Для перехода между уровнями необходимо выполнить соответствующие [[условия|Governance/Access Levels/Access Level Transitions]].
+
 ## Права и обязанности
 
 Права распространяются вверх: права Resident'а включают в себя права Guest'а и Member'а.
