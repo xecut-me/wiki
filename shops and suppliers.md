@@ -117,7 +117,7 @@
 
 - https://www.cncshop.rs/
 
-## Сантехника / водоснабжение / гидравлика / уплотнительные кольца
+## Сантехника, водоснабжение, гидравлика, уплотнительные кольца
 
 - https://doming.rs/
 - https://www.hidraulikastanic.rs/
@@ -130,7 +130,7 @@
 - https://kefo.rs/
 - https://www.megasolution-shop.rs/
 
-## Переработка, утилизация быт отходов
+## Переработка, утилизация отходов
 
 - https://gdereciklirati.rs/
 - https://www.ereciklaza.com/
