@@ -19,6 +19,9 @@
   <br>https://elektroleum.rs/shop-prodavnica-oniline/
   <br>Электроприборы, малинки-ардуинки.
 
+- **Vremeplov**
+  <br>https://vremeplov.co.rs/
+  <br> Есть теплороводный клей.
 ### Белград
 
 - **Mikro Princ**
