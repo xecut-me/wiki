@@ -94,6 +94,10 @@
 
 ## Провода и переходники (HDMI, питание, etc.)
 
+### Online
+
+- **https://www.kanibal.co.rs/**
+
 ### Белград
 
 - **AV market**
