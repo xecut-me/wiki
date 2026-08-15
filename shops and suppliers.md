@@ -193,3 +193,10 @@
 
 - https://gdereciklirati.rs/
 - https://www.ereciklaza.com/
+
+## Разные материалы
+
+- **Sitologika**
+  <br>https://sitologika.rs/
+  <br>https://maps.app.goo.gl/76qdPrK9BQmwiNWq8
+  <br>Магазин материалов для наружной рекламы. Картон, пеноплекс, фанера, клейкие ленты.
