@@ -14,6 +14,7 @@ IP: 192.168.10.21
 # Текущая конфигурация
 * 4 сопла 0.4mm
 * Textured PEI Plate
+* [[Extended Firmware|https://github.com/paxx12-snapmaker-u1/SnapmakerU1-Extended-Firmware]]
 
 Также имеется:
  * Carbon-Fiber Textured PEI
@@ -29,7 +30,7 @@ IP: 192.168.10.21
  * Прочие запасные части
 
 # Филаменты
-* Хорошо: PLA, PETG, TPU, PVA, PCTG
+* Хорошо: PLA, PETG, [[TPU|https://www.youtube.com/watch?v=McCOm5IerC4]] (>90A), PVA, PCTG
 * Желательно с крышкой: PLA, PETG, TPU, PVA, PET, ABS, ASA, PA, PC
 * С крышкой и закалённым соплом: Carbon-fiber-reinforced Polymer, Glass-fiber-reinforced Polymer
 
@@ -37,3 +38,35 @@ IP: 192.168.10.21
 На текущий момент U1 поддерживается только в Snapmaker Orca ([[Win, Mac|https://www.snapmaker.com/snapmaker-orca]],[[Linux|https://github.com/Snapmaker/OrcaSlicer/releases]].
 
 Официальный гайд по настройке: [[[https://wiki.snapmaker.com/en/snapmaker_orca/qsg]]
+
+# Смена филамента
+## Unload
+
+Процесс полностью автоматический
+
+![](./image-1789156145260.png)
+![](./image-1789156269969.png)
+![](./image-1789156418051.png)
+![](./image-1789156399027.png)
+
+После этого смотать катушку вручную
+
+## Load
+1. Просунуть филамент в фидер
+2. Его автоматически затянет почти до экструдера
+3. ![](./image-1789156907463.png)
+4. ![](./image-1789156970621.png)
+5. [[Filament Configuration|http://192.168.10.21/filament]](рекомедуется) или вручную в интерфейсе принтера 
+6. ![](./image-1789157101995.png)
+7. В поиске ввести номер катушки, цвет, название или тип пластика
+8. Выбрать правильную катушку
+9. ![](./image-1789157270297.png)
+10. В интерфейсе отбразится тип и цвет пластика 
+11. ![](./image-1789157344085.png)
+12. ![](./image-1789157530373.png) 
+13. ![](./image-1789157542243.png)
+
+## [[Spoolman|http://192.168.10.5:7912]]
+Все катушки занесены в Spoolman и пронумерованы, при правильном использовании долно отслеживаться количество оставшегося пластика.
+
+Также планируется наклеить на катушки QR или RFID, для автоматизации выбора катушки.
