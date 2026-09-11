@@ -35,7 +35,7 @@ IP: 192.168.10.21
 * С крышкой и закалённым соплом: Carbon-fiber-reinforced Polymer, Glass-fiber-reinforced Polymer
 
 # Слайсер
-На текущий момент U1 поддерживается только в Snapmaker Orca ([[Win, Mac|https://www.snapmaker.com/snapmaker-orca]],[[Linux|https://github.com/Snapmaker/OrcaSlicer/releases]].
+На текущий момент U1 поддерживается только в Snapmaker Orca ([[Win, Mac|https://www.snapmaker.com/snapmaker-orca]],[[Linux|https://github.com/Snapmaker/OrcaSlicer/releases]]).
 
 Официальный гайд по настройке: [[[https://wiki.snapmaker.com/en/snapmaker_orca/qsg]]
 
