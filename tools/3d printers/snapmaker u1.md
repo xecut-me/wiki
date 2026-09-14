@@ -1,10 +1,10 @@
 # Snapmaker U1
 
 IP: 192.168.10.21
-[[WebUI|http://192.168.10.21]]
-[[Filament Configuration|http://192.168.10.21/filament]]
+[WebUI](http://192.168.10.21)
+[Filament Configuration](http://192.168.10.21/filament)
 
-# [[Характеристики|https://eu.snapmaker.com/products/snapmaker-u1-3d-printer]]
+# [Характеристики](https://eu.snapmaker.com/products/snapmaker-u1-3d-printer)
 
 * Максимальный размер печати: 270 x 270 x 270 mm³
 * Максимальная температура сопла: 300 ℃
@@ -14,7 +14,7 @@ IP: 192.168.10.21
 # Текущая конфигурация
 * 4 сопла 0.4mm
 * Textured PEI Plate
-* [[Extended Firmware|https://github.com/paxx12-snapmaker-u1/SnapmakerU1-Extended-Firmware]]
+* [Extended Firmware](https://github.com/paxx12-snapmaker-u1/SnapmakerU1-Extended-Firmware)
 
 Также имеется:
  * Carbon-Fiber Textured PEI
@@ -30,14 +30,14 @@ IP: 192.168.10.21
  * Прочие запасные части
 
 # Филаменты
-* Хорошо: PLA, PETG, [[TPU|https://www.youtube.com/watch?v=McCOm5IerC4]] (>90A), PVA, PCTG
+* Хорошо: PLA, PETG, [TPU](https://www.youtube.com/watch?v=McCOm5IerC4) (>90A), PVA, PCTG
 * Желательно с крышкой: PLA, PETG, TPU, PVA, PET, ABS, ASA, PA, PC
 * С крышкой и закалённым соплом: Carbon-fiber-reinforced Polymer, Glass-fiber-reinforced Polymer
 
 # Слайсер
-На текущий момент U1 поддерживается только в Snapmaker Orca ([[Win, Mac|https://www.snapmaker.com/snapmaker-orca]],[[Linux|https://github.com/Snapmaker/OrcaSlicer/releases]]).
+На текущий момент U1 поддерживается только в Snapmaker Orca ([Win, Mac](https://www.snapmaker.com/snapmaker-orca),[Linux](https://github.com/Snapmaker/OrcaSlicer/releases)).
 
-Официальный гайд по настройке: [[[https://wiki.snapmaker.com/en/snapmaker_orca/qsg]]
+Официальный гайд по настройке: [[https://wiki.snapmaker.com/en/snapmaker_orca/qsg]]
 
 В большинстве случаев можно использовать стандартные настройки для печати.
 
@@ -61,7 +61,7 @@ IP: 192.168.10.21
 2. Его автоматически затянет почти до экструдера
 3. ![](./image-1789156907463.png)
 4. ![](./image-1789156970621.png)
-5. [[Filament Configuration|http://192.168.10.21/filament]](рекомедуется) или вручную в интерфейсе принтера 
+5. [Filament Configuration](http://192.168.10.21/filament) (рекомедуется) или вручную в интерфейсе принтера 
 6. ![](./image-1789157101995.png)
 7. В поиске ввести номер катушки, цвет, название или тип пластика
 8. Выбрать правильную катушку
@@ -71,7 +71,7 @@ IP: 192.168.10.21
 12. ![](./image-1789157530373.png) 
 13. ![](./image-1789157542243.png)
 
-## [[Spoolman|http://192.168.10.5:7912]]
+## [Spoolman](http://192.168.10.5:7912)
 Все катушки занесены в Spoolman и пронумерованы, при правильном использовании долно отслеживаться количество оставшегося пластика.
 
 Также планируется наклеить на катушки QR или RFID, для автоматизации выбора катушки.
