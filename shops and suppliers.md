@@ -6,6 +6,9 @@
 
 ### Online 
 
+- **comet.rs**
+  <br>https://store.comet.rs
+
 - **Orbitel**
   <br>http://www.orbitel.co.rs/sr/novi-proizvodi 
   <br>Онлайн магазин, модули, ардуинки, пассивные компоненты.
